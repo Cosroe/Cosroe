@@ -1,4 +1,4 @@
-## Hallo! 
+## Hallo! 🤓
 
 I'm Kasra, a driven professional with a strong background in Industrial Engineering and Information Engineering. I specialize in data analysis and econometrics.
 
