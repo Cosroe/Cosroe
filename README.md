@@ -1,21 +1,28 @@
 ## Hallo! 🤓
 
-I'm Kasra, a driven professional with a strong background in Industrial Engineering and Information Engineering. I specialize in data analysis and econometrics.
+I'm Kasra, a driven professional with a strong background in industrial engineering, information engineering, and physics. I specialize in data analytics and operations research.
 
-- 🔭 I’m currently pursuing a Bachelor of Science in Industrial Engineering with a specialization in Information Engineering at the Rhine-Waal University of Applied Sciences.
-- 🌱 My academic journey also includes substantial coursework in physics, which has provided me with a strong analytical and problem-solving foundation that I continue to apply in my current studies.
-- 💬 Ask me about econometrics, data analytics, macroeconomics, and finance.
+- I’m currently working on a few applied projects:
+  - Kaggle's House Price Competition (https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+  - Algorithmic trading of gold based on a market dataset (https://www.kaggle.com/datasets/khashayarahmadi/gold-price-in-iran-2013-2024)
+
 
 ### Education
 
-- **Bachelor of Science in Industrial Engineering with a specialization in Information Engineering**
+- **Bachelor of Science in Industrial Engineering**
+  - Specialization: Information Engineering
   - Rhine-Waal University of Applied Sciences
   - **Bachelor Thesis**: Investigating the impact of economic freedom on economic growth within the European Economic Area
+
+- **Bachelor of Science in Physics (International Physics Studies Program)**
+  - Leipzig University
+  - Switched to industrial engineering
+
 
 ### Skills
 
 - **Programming Languages**: Python, R
-- **Areas of Expertise**: Data Analysis, Econometrics
+- **Areas of Expertise**: Data Analysis, Econometrics, Operations Research.
 
 You can connect with me by visiting my [personal page](https://cosroe.github.io/).
 
