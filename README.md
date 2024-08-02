@@ -12,7 +12,7 @@ I'm Kasra, a driven professional with a strong background in industrial engineer
 - **Bachelor of Science in Industrial Engineering**
   - Specialization: Information Engineering
   - Rhine-Waal University of Applied Sciences
-  - **Bachelor Thesis**: Investigating the impact of economic freedom on economic growth within the European Economic Area
+  - Bachelor Thesis: Investigating the impact of economic freedom on economic growth within the European Economic Area
 
 - **Bachelor of Science in Physics (International Physics Studies Program)**
   - Leipzig University
