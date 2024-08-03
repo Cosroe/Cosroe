@@ -24,8 +24,6 @@ I'm Kasra, a driven professional with a strong background in industrial engineer
 - **Programming Languages**: Python, R
 - **Areas of Expertise**: Data Analysis, Econometrics, Operations Research.
 
-You can connect with me by visiting my [personal page](https://cosroe.github.io/).
-
 Expect regular updates to this page as I add the stuff I am working on/have finished working on!
 
 Thank you for visiting my GitHub profile!
