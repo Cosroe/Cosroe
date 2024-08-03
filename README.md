@@ -22,7 +22,7 @@ I'm Kasra, a driven professional with a strong background in industrial engineer
 ### Skills
 
 - **Programming Languages**: Python, R
-- **Areas of Expertise**: Data Analysis, Econometrics, Operations Research.
+- **Areas of Expertise**: Data Analytics, Econometrics, Operations Research.
 
 Expect regular updates to this page as I add the stuff I am working on/have finished working on!
 
