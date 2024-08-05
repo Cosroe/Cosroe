@@ -3,7 +3,7 @@
 I'm Kasra, a driven professional with a strong background in industrial engineering, information engineering, and physics. I specialize in data analytics and operations research.
 
 - I’m currently working on a few applied projects:
-  - Kaggle's House Price Competition (https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+  - Machine learning to predict part failure using the AI4I 2020 Predictive Maintenance Dataset(https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset)
   - Algorithmic trading of gold based on a market dataset (https://www.kaggle.com/datasets/khashayarahmadi/gold-price-in-iran-2013-2024)
 
 
