@@ -4,9 +4,8 @@ I'm Kasra, a driven professional with a strong background in industrial engineer
 
 - I’m currently completing the following courses:
   - [Operations Research and Optimization Projects with Python](https://www.udemy.com/course/operations-research-optimization-projects-with-python/)
-  
-- I’m also currently working on this project:
-  - [Algorithmic trading of gold based on a market dataset](https://www.kaggle.com/datasets/khashayarahmadi/gold-price-in-iran-2013-2024)
+  - [Learn SimPy from Scratch:Build Realistic Python Simulations](https://www.udemy.com/course/learn-simpy-from-scratch/learn/lecture/34006408?start=0#overview)
+  - [Machine Learning & Deep Learning for Industry 4.0 Projects](https://www.udemy.com/course/industry-40-digital-transformation-and-smart-manufacturing/learn/lecture/43833276?start=0#overview)
 
 
 ### Education
