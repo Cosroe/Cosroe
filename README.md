@@ -4,7 +4,6 @@ I'm Kasra, a driven professional with a strong background in industrial engineer
 
 - I’m currently completing the following courses:
   - [Financial Engineering and Risk Management Specialization](https://www.coursera.org/specializations/financialengineering)
-  - [Learn SimPy from Scratch:Build Realistic Python Simulations](https://www.udemy.com/course/learn-simpy-from-scratch/learn/lecture/34006408?start=0#overview)
   - [Data Science Projects: Hands-On Projects in Machine Learning, Forecasting, and Business Analytics](https://www.udemy.com/course/industry-40-digital-transformation-and-smart-manufacturing/learn/lecture/43833276?start=0#overview)
 
 - Courses that I plan to do soon:
