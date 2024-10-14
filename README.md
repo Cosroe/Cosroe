@@ -12,9 +12,9 @@ I'm Kasra, a driven professional with a strong background in industrial engineer
 ### Education
 
 - **Bachelor of Science in Industrial Engineering**
-  - Specialization: Information Engineering
+  - Specialization: Information Engineering (Overall Grade: 2.4)
   - Rhine-Waal University of Applied Sciences
-  - [Bachelor Thesis](https://github.com/Cosroe/Bachelor_Thesis): Investigating the impact of economic freedom on economic growth within the European Economic Area
+  - [Bachelor Thesis](https://github.com/Cosroe/Bachelor_Thesis): Investigating the impact of economic freedom on economic growth within the European Economic Area (Grade: 1.3)
 
 - **Bachelor of Science in Physics (International Physics Studies Program)**
   - Leipzig University
