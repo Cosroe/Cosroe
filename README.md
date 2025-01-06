@@ -1,13 +1,10 @@
 ## Hallo! 🤓
 
-I'm Kasra, a driven professional with a strong background in industrial engineering, information engineering, and physics. I specialize in data analytics and operations research.
+I'm a data engineer and BI consultant with a background in information engineering and physics.
 
 - I’m currently completing the following courses:
   - [Financial Engineering and Risk Management Specialization](https://www.coursera.org/specializations/financialengineering)
   - [Data Science Projects: Hands-On Projects in Machine Learning, Forecasting, and Business Analytics](https://www.udemy.com/course/industry-40-digital-transformation-and-smart-manufacturing/learn/lecture/43833276?start=0#overview)
-
-- Courses that I plan to do soon:
-  - [Quantitative Finance & Algorithmic Trading in Python](https://www.udemy.com/course/quantitative-finance-algorithmic-trading-in-python/?couponCode=ST11MT91624B)
 
 ### Education
 
@@ -23,8 +20,8 @@ I'm Kasra, a driven professional with a strong background in industrial engineer
 
 ### Skills
 
-- **Programming Languages**: Python, R
-- **Areas of Expertise**: Data Analytics, Econometrics, Operations Research.
+- **Programming Languages**: SQL, Python, R
+- **Areas of Expertise**: Data Engineering, Data Analytics, Econometrics, Operations Research.
 
 Expect regular updates to this page as I add the stuff I am working on/have finished working on!
 
