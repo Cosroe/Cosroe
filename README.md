@@ -2,10 +2,6 @@
 
 I'm a data engineer and BI consultant with a background in information engineering and physics.
 
-- I’m currently completing the following courses:
-  - [Financial Engineering and Risk Management Specialization](https://www.coursera.org/specializations/financialengineering)
-  - [Data Science Projects: Hands-On Projects in Machine Learning, Forecasting, and Business Analytics](https://www.udemy.com/course/industry-40-digital-transformation-and-smart-manufacturing/learn/lecture/43833276?start=0#overview)
-
 ### Education
 
 - **Bachelor of Science in Industrial Engineering**
