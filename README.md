@@ -1,24 +1,50 @@
-## Hallo! 🤓
+# Hallo! 🤓
 
-I'm a data engineer and BI consultant with a background in information engineering and physics.
+Welcome to my GitHub profile!  
+I'm a **Data Engineer** and **BI Consultant** with a background in **Information Engineering** and **Physics**.  
 
-### Education
+My main tools are **SQL** and **Python**, but I also have experience with **R** and **MATLAB**.
 
-- **Bachelor of Science in Industrial Engineering**
-  - Specialization: Information Engineering (Overall Grade: 2.4)
-  - Rhine-Waal University of Applied Sciences
-  - [Bachelor Thesis](https://github.com/Cosroe/Bachelor_Thesis): Investigating the impact of economic freedom on economic growth within the European Economic Area (Grade: 1.3)
+---
 
-- **Bachelor of Science in Physics (International Physics Studies Program)**
-  - Leipzig University
-  - Switched to industrial engineering
+## 🛠️ Tools & Technologies
 
+### 📊 Data Storage & Analytics Platforms
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat&logo=oracle&logoColor=white)
+![IBM Db2](https://img.shields.io/badge/IBM%20Db2-052FAD?style=flat&logo=ibm&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### Skills
+### 🔄 Data Ingestion, Transformation & Orchestration
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![IBM DataStage](https://img.shields.io/badge/IBM%20DataStage-052FAD?style=flat&logo=ibm&logoColor=white)
+![Airbyte](https://img.shields.io/badge/Airbyte-5023A0?style=flat&logo=airbyte&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-212121?style=flat&logo=prefect&logoColor=white)
 
-- **Programming Languages**: SQL, Python, R
-- **Areas of Expertise**: Data Engineering, Data Analytics, Econometrics, Operations Research.
+---
 
-Expect regular updates to this page as I add the stuff I am working on/have finished working on!
+## 🗂️ About This GitHub
 
-Thank you for visiting my GitHub profile!
+> 📝 Most repositories here are **personal projects** and experiments.  
+> Unfortunately, my professional work cannot be shared publicly, but these projects reflect my interests and skills.
+
+### Topics I enjoy:
+- 🛠️ Data Engineering
+- 📊 Data Analytics
+- 🤖 Data Science
+- 📈 Econometrics
+- 🧮 Operations Research
+
+---
+
+## 📬 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-hashemi/)  
+📧 Email: kasra.hashemi@scheufler.it
+
+---
+
+_Thanks for stopping by!_
