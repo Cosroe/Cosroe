@@ -11,6 +11,7 @@ My main tools are **SQL** and **Python**, but I also have experience with **R** 
 
 ### 📊 Data Storage & Analytics Platforms
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-BA0C2F?style=flat&logo=microsoft&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat&logo=oracle&logoColor=white)
 ![IBM Db2](https://img.shields.io/badge/IBM%20Db2-052FAD?style=flat&logo=ibm&logoColor=white)
