@@ -23,6 +23,7 @@ My main tools are **SQL** and **Python**, but I also have experience with **R** 
 ![IBM DataStage](https://img.shields.io/badge/IBM%20DataStage-052FAD?style=flat&logo=ibm&logoColor=white)
 ![Airbyte](https://img.shields.io/badge/Airbyte-5023A0?style=flat&logo=airbyte&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-212121?style=flat&logo=prefect&logoColor=white)
 
 ---
 
