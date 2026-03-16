@@ -16,12 +16,10 @@ My main tools are **SQL** and **Python**, but I also have experience with **R** 
 ![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat&logo=oracle&logoColor=white)
 ![IBM Db2](https://img.shields.io/badge/IBM%20Db2-052FAD?style=flat&logo=ibm&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 🔄 Data Ingestion, Transformation & Orchestration
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 ![IBM DataStage](https://img.shields.io/badge/IBM%20DataStage-052FAD?style=flat&logo=ibm&logoColor=white)
-![Airbyte](https://img.shields.io/badge/Airbyte-5023A0?style=flat&logo=airbyte&logoColor=white)
 ![dlt](https://img.shields.io/badge/dlt-0F2027?style=flat&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 ![Prefect](https://img.shields.io/badge/Prefect-212121?style=flat&logo=prefect&logoColor=white)
